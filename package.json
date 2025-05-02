@@ -1,20 +1,6 @@
 {
-  "name": "mernblog",
-  "version": "1.0.0",
-  "description": "Mern app to learn full stack dev",
-  "main": "server.js",
-  "scripts": {
-    "server": "nodemon"
-  },
-  "keywords": [],
-  "author": "Yacine",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2",
+    "express": "^5.1.0",
     "mongodb": "^6.16.0"
-  },
-  "devDependencies": {
-    "concurrently": "^9.1.2",
-    "nodemon": "^3.1.9"
   }
 }
